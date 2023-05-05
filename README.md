@@ -1,4 +1,4 @@
-# Dear Designers
+# Dear Designer
 
 ### Intro
 
